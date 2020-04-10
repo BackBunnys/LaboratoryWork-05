@@ -16,7 +16,7 @@ public class App {
         int N = console.nextInt();
 
         System.out.print("Type list's elements: ");
-        head = ListUtils.read(head, N, System.in, Long::parseUnsignedLong);
+        head = ListUtils.read(head, N, System.in, Long::parseLong);
 
         System.out.print("The total list: ");
         ListUtils.print(

@@ -1,7 +1,8 @@
 # Laboratory work #5
 ![Java CI with Maven](https://github.com/BackBunnys/LaboratoryWork-05/workflows/Java%20CI%20with%20Maven/badge.svg?branch=v1.0)
 
-Requirments: **JDK 8** or upper
+Requirments: **JDK 8** or upper.
+
 To run type in command line:
 
 Using jar: `java -cp lab5-1.0.jar com.vlsu.studies.Main`

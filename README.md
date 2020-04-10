@@ -3,7 +3,9 @@
 
 Requirments: **JDK 8** or upper
 To run type in command line:
+
 Using jar: `java -cp lab5-1.0.jar com.vlsu.studies.Main`
+
 Using sources:
 * `mvn compile` 
 * `java -cp target/classes com.vlsu.studies.Main`

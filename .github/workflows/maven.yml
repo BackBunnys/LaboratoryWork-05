@@ -3,7 +3,7 @@
 
 name: Java CI with Maven
 
-on: [push, release]
+on: [release]
 
 jobs:
   build:
